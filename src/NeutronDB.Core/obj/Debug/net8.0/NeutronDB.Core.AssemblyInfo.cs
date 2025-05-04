@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NeutronDB.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1deb0cd191da2c7b609cf0bda4586803d088b6fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("NeutronDB.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NeutronDB.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UserX\\Documents\\repos\\NeutronDB\\NeutronDB.API\\NeutronDB.API.csproj": {}
+    "C:\\Users\\UserX\\Documents\\repos\\NeutronDB\\src\\NeutronDB.API\\NeutronDB.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UserX\\Documents\\repos\\NeutronDB\\NeutronDB.API\\NeutronDB.API.csproj": {
+    "C:\\Users\\UserX\\Documents\\repos\\NeutronDB\\src\\NeutronDB.API\\NeutronDB.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UserX\\Documents\\repos\\NeutronDB\\NeutronDB.API\\NeutronDB.API.csproj",
+        "projectUniqueName": "C:\\Users\\UserX\\Documents\\repos\\NeutronDB\\src\\NeutronDB.API\\NeutronDB.API.csproj",
         "projectName": "NeutronDB.API",
-        "projectPath": "C:\\Users\\UserX\\Documents\\repos\\NeutronDB\\NeutronDB.API\\NeutronDB.API.csproj",
+        "projectPath": "C:\\Users\\UserX\\Documents\\repos\\NeutronDB\\src\\NeutronDB.API\\NeutronDB.API.csproj",
         "packagesPath": "C:\\Users\\UserX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UserX\\Documents\\repos\\NeutronDB\\NeutronDB.API\\obj\\",
+        "outputPath": "C:\\Users\\UserX\\Documents\\repos\\NeutronDB\\src\\NeutronDB.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

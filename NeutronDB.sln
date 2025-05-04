@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeutronDB.Core", "src\Neutr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeutronDB.Infrastructure", "src\NeutronDB.Infrastructure\NeutronDB.Infrastructure.csproj", "{988EE54C-29E5-435E-8E24-F0B1E169D61A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeutronDB.API", "NeutronDB.API\NeutronDB.API.csproj", "{EE68EBC1-9FFB-4449-895F-50DEEA9D6848}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeutronDB.API", "src\NeutronDB.API\NeutronDB.API.csproj", "{B2B41598-7CBC-434F-974B-A9CFA0A9CE1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{988EE54C-29E5-435E-8E24-F0B1E169D61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{988EE54C-29E5-435E-8E24-F0B1E169D61A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{988EE54C-29E5-435E-8E24-F0B1E169D61A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EE68EBC1-9FFB-4449-895F-50DEEA9D6848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EE68EBC1-9FFB-4449-895F-50DEEA9D6848}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EE68EBC1-9FFB-4449-895F-50DEEA9D6848}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EE68EBC1-9FFB-4449-895F-50DEEA9D6848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2B41598-7CBC-434F-974B-A9CFA0A9CE1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B41598-7CBC-434F-974B-A9CFA0A9CE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B41598-7CBC-434F-974B-A9CFA0A9CE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B41598-7CBC-434F-974B-A9CFA0A9CE1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
