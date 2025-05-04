@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeutronDB.Core", "src\NeutronDB.Core\NeutronDB.Core.csproj", "{5A3B7C43-0F09-416F-B315-468E3E499654}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeutronDB.Infrastructure", "src\NeutronDB.Infrastructure\NeutronDB.Infrastructure.csproj", "{988EE54C-29E5-435E-8E24-F0B1E169D61A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeutronDB.API", "NeutronDB.API\NeutronDB.API.csproj", "{EE68EBC1-9FFB-4449-895F-50DEEA9D6848}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A3B7C43-0F09-416F-B315-468E3E499654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A3B7C43-0F09-416F-B315-468E3E499654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A3B7C43-0F09-416F-B315-468E3E499654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A3B7C43-0F09-416F-B315-468E3E499654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{988EE54C-29E5-435E-8E24-F0B1E169D61A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988EE54C-29E5-435E-8E24-F0B1E169D61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988EE54C-29E5-435E-8E24-F0B1E169D61A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988EE54C-29E5-435E-8E24-F0B1E169D61A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE68EBC1-9FFB-4449-895F-50DEEA9D6848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE68EBC1-9FFB-4449-895F-50DEEA9D6848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE68EBC1-9FFB-4449-895F-50DEEA9D6848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE68EBC1-9FFB-4449-895F-50DEEA9D6848}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30E81F8E-318C-473D-AE24-377339936243}
+	EndGlobalSection
+EndGlobal
